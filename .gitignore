@@ -172,3 +172,20 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+/.vs/CursoCsharpFRFR/FileContentIndex
+/ConsoleApp1/obj/cursoCsharp.csproj.nuget.dgspec.json
+/ConsoleApp1/obj/project.assets.json
+/ConsoleApp1/obj/project.nuget.cache
+/ClassLibrary1/obj/project.nuget.cache
+/ClassLibrary1/obj/project.assets.json
+/ClassLibrary1/obj/Encapsulamento.csproj.nuget.dgspec.json
+/ClassLibrary1/obj/Debug/net6.0/Encapsulamento.assets.cache
+/ClassLibrary1/obj/Debug/net6.0/Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/ConsoleApp1/obj/Debug/net6.0/cursoCsharp.assets.cache
+/ConsoleApp1/obj/Debug/net6.0/cursoCsharp.csproj.AssemblyReference.cache
+/ConsoleApp1/obj/Debug/net6.0/cursoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/.vs/CursoCsharpFRFR/FileContentIndex/66f9bdab-2de4-4ec3-810b-a372f249cdd5.vsidx
+/.vs/CursoCsharpFRFR/FileContentIndex/8d97bcea-23d2-45a6-9ce3-cf1bc67efa32.vsidx
+/.vs/CursoCsharpFRFR/FileContentIndex/bf4d17aa-a9f4-4c64-97a0-5b5bd21bb9ee.vsidx
+/.vs/CursoCsharpFRFR/FileContentIndex/bf8d35a1-6c35-4ecb-843a-2617ffea39da.vsidx
+/.vs/CursoCsharpFRFR/FileContentIndex/e9038723-f400-43d7-b3c0-5ce1d8771c49.vsidx
