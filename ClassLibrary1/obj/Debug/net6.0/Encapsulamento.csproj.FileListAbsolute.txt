@@ -1,0 +1,23 @@
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\net6.0\Encapsulamento.deps.json
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\net6.0\Encapsulamento.dll
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.dll
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\refint\Encapsulamento.dll
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.pdb
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\ref\Encapsulamento.dll
+C:\Users\arthu\Documents\ConsoleApp1\ClassLibrary1\bin\Debug\net6.0\Encapsulamento.deps.json
+C:\Users\arthu\Documents\ConsoleApp1\ClassLibrary1\bin\Debug\net6.0\Encapsulamento.dll
+C:\Users\arthu\Documents\ConsoleApp1\ClassLibrary1\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Users\arthu\Documents\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\arthu\Documents\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.dll
+C:\Users\arthu\Documents\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\refint\Encapsulamento.dll
+C:\Users\arthu\Documents\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\Encapsulamento.pdb
+C:\Users\arthu\Documents\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\ref\Encapsulamento.dll

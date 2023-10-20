@@ -1,0 +1,15 @@
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\cursoCsharp.exe
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\cursoCsharp.deps.json
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\cursoCsharp.runtimeconfig.json
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\cursoCsharp.dll
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\cursoCsharp.pdb
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\cursoCsharp.csproj.AssemblyReference.cache
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\cursoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\cursoCsharp.AssemblyInfoInputs.cache
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\cursoCsharp.AssemblyInfo.cs
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\cursoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\cursoCsharp.dll
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\refint\cursoCsharp.dll
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\cursoCsharp.pdb
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\cursoCsharp.genruntimeconfig.cache
+C:\Users\Arthur Guzzo Sichi\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ref\cursoCsharp.dll
