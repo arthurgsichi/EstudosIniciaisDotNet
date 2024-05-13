@@ -11,6 +11,7 @@ using cursoCsharp.Excecoes;
 using cursoCsharp.API;
 using cursoCsharp.TopicosAvancados;
 using System.IO;
+using static cursoCsharp.TopicosAvancados.PropriedadesNumImPar;
 
 namespace cursoCsharp
 {
@@ -103,6 +104,18 @@ namespace cursoCsharp
                 {"LINQ #02 - Tópicos Avançados", LINQ_2.Executar},
                 {"Nullable - Tópicos Avançados", Nullables.Executar},
                 {"Dynamic - Tópicos Avançados", Dynamic.Executar},
+                {"Chat GPT #1 - Tópicos Avançados", NumImparPar.Executar},
+                {"Chat GPT #2 - Tópicos Avançados", SomaNumeroAlvo.Executar},
+                {"Chat GPT #3 - Tópicos Avançados", StringSplit.Executar},
+                {"Chat GPT #4 - Tópicos Avançados", PedidosRestaurante.Executar},
+                {"Chat GPT #5 - Tópicos Avançados", ConversaoDeCoisas.Executar},
+                {"Chat GPT #6 - Tópicos Avançados", GerenciamentoTarefas.Executar},
+                {"Chat GPT #7 - Tópicos Avançados", NumerosParesComLinq.Executar},
+                {"Chat GPT #8 - Tópicos Avançados", AnaliseDeTextoLINQ.Executar},
+                {"Chat GPT #9 - Tópicos Avançados", EncontrandoNumerosPerdidosLINQ.Executar},
+                {"Chat GPT #10 - Tópicos Avançados", ValidacaoDeAnagramasLINQ.Executar},
+                {"Chat GPT #11 - Tópicos Avançados", ValidacaoDePalindromosLINQ.Executar},
+
 
 
             }); ; central.SelecionarEExecutar();
