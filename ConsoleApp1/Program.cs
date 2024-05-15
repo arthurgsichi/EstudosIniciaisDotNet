@@ -12,7 +12,6 @@ using cursoCsharp.API;
 using cursoCsharp.TopicosAvancados;
 using cursoCsharp.Treinando;
 using System.IO;
-<<<<<<< HEAD
 using cursoCsharp.Treinando.JogoDaForca_03;
 using cursoCsharp.Treinando.NumeroSecreto_04;
 using cursoCsharp.Treinando.ListaDeCompras_05;
@@ -20,9 +19,7 @@ using cursoCsharp.Treinando.BancoDeDados_06;
 using cursoCsharp.Treinando.NumeroSecreto_04.NumeroSecreto_04;
 using cursoCsharp.Treinando.ListaDeCompras_05.ListaDeCompras_05;
 using cursoCsharp.Treinando.VoltandoPraAtiva_07;
-=======
 using static cursoCsharp.TopicosAvancados.PropriedadesNumImPar;
->>>>>>> 187c3ae3adb93dca2c7cb23baa33debc6efaedc3
 
 namespace cursoCsharp
 {
