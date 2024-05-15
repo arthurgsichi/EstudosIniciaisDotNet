@@ -12,6 +12,7 @@ using cursoCsharp.API;
 using cursoCsharp.TopicosAvancados;
 using cursoCsharp.Treinando;
 using System.IO;
+<<<<<<< HEAD
 using cursoCsharp.Treinando.JogoDaForca_03;
 using cursoCsharp.Treinando.NumeroSecreto_04;
 using cursoCsharp.Treinando.ListaDeCompras_05;
@@ -19,6 +20,9 @@ using cursoCsharp.Treinando.BancoDeDados_06;
 using cursoCsharp.Treinando.NumeroSecreto_04.NumeroSecreto_04;
 using cursoCsharp.Treinando.ListaDeCompras_05.ListaDeCompras_05;
 using cursoCsharp.Treinando.VoltandoPraAtiva_07;
+=======
+using static cursoCsharp.TopicosAvancados.PropriedadesNumImPar;
+>>>>>>> 187c3ae3adb93dca2c7cb23baa33debc6efaedc3
 
 namespace cursoCsharp
 {
@@ -111,6 +115,18 @@ namespace cursoCsharp
                 {"LINQ #02 - Tópicos Avançados", LINQ_2.Executar},
                 {"Nullable - Tópicos Avançados", Nullables.Executar},
                 {"Dynamic - Tópicos Avançados", Dynamic.Executar},
+                {"Chat GPT #1 - Tópicos Avançados", NumImparPar.Executar},
+                {"Chat GPT #2 - Tópicos Avançados", SomaNumeroAlvo.Executar},
+                {"Chat GPT #3 - Tópicos Avançados", StringSplit.Executar},
+                {"Chat GPT #4 - Tópicos Avançados", PedidosRestaurante.Executar},
+                {"Chat GPT #5 - Tópicos Avançados", ConversaoDeCoisas.Executar},
+                {"Chat GPT #6 - Tópicos Avançados", GerenciamentoTarefas.Executar},
+                {"Chat GPT #7 - Tópicos Avançados", NumerosParesComLinq.Executar},
+                {"Chat GPT #8 - Tópicos Avançados", AnaliseDeTextoLINQ.Executar},
+                {"Chat GPT #9 - Tópicos Avançados", EncontrandoNumerosPerdidosLINQ.Executar},
+                {"Chat GPT #10 - Tópicos Avançados", ValidacaoDeAnagramasLINQ.Executar},
+                {"Chat GPT #11 - Tópicos Avançados", ValidacaoDePalindromosLINQ.Executar},
+
 
                 //--------------------------------- Acabei o curso e to só treinando pra não esquecer -------------------------------
                 {"ChatGPT #01 ( Médias Aritiméticas )", ChatGPT_01.Executar},
