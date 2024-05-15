@@ -19,7 +19,7 @@ namespace cursoCsharp.TopicosAvancados
             dynamic aluno = new System.Dynamic.ExpandoObject();
             aluno.nome = "Arthur Guzzo SIchi";
             aluno.idadix = 15;
-            aluno.alturex = 1.95;
+            aluno.alturex = 1.93;
             Console.WriteLine($"{aluno.nome} / {aluno.idadix} / {aluno.alturex}");
         }
     }

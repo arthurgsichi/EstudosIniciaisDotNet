@@ -10,7 +10,15 @@ using cursoCsharp.MetodosEFuncoes;
 using cursoCsharp.Excecoes;
 using cursoCsharp.API;
 using cursoCsharp.TopicosAvancados;
+using cursoCsharp.Treinando;
 using System.IO;
+using cursoCsharp.Treinando.JogoDaForca_03;
+using cursoCsharp.Treinando.NumeroSecreto_04;
+using cursoCsharp.Treinando.ListaDeCompras_05;
+using cursoCsharp.Treinando.BancoDeDados_06;
+using cursoCsharp.Treinando.NumeroSecreto_04.NumeroSecreto_04;
+using cursoCsharp.Treinando.ListaDeCompras_05.ListaDeCompras_05;
+using cursoCsharp.Treinando.VoltandoPraAtiva_07;
 
 namespace cursoCsharp
 {
@@ -103,6 +111,15 @@ namespace cursoCsharp
                 {"LINQ #02 - Tópicos Avançados", LINQ_2.Executar},
                 {"Nullable - Tópicos Avançados", Nullables.Executar},
                 {"Dynamic - Tópicos Avançados", Dynamic.Executar},
+
+                //--------------------------------- Acabei o curso e to só treinando pra não esquecer -------------------------------
+                {"ChatGPT #01 ( Médias Aritiméticas )", ChatGPT_01.Executar},
+                {"ChatGPT #02 ( Palíndromos )", ChatGPT_02.Executar},
+                {"ChatGPT #03 (  Jogo da Forca )", ChatGPT_03.Executar },
+                {"ChatGPT #04 (  NúmeroSecreto )", ChatGPT_04.Executar },
+                {"ChatGPT #05 (  Lista de Compras )", ChatGPT_05.Executar },
+                {"ChatGPT #06 (  Banco de Dados Simples )", ChatGPT_06.Executar },
+                //{"ChatGPT #07 (  iniciante/intermediário/expert )", ChatGPT_07.Executar },
 
 
             }); ; central.SelecionarEExecutar();

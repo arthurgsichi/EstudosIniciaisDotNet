@@ -1,0 +1,16 @@
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\bin\Debug\net8.0\EFCoreExample.exe
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\bin\Debug\net8.0\EFCoreExample.deps.json
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\bin\Debug\net8.0\EFCoreExample.runtimeconfig.json
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\bin\Debug\net8.0\EFCoreExample.dll
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\bin\Debug\net8.0\EFCoreExample.pdb
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\obj\Debug\net8.0\EFCoreExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\obj\Debug\net8.0\EFCoreExample.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\obj\Debug\net8.0\EFCoreExample.AssemblyInfo.cs
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\obj\Debug\net8.0\EFCoreExample.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\obj\Debug\net8.0\EFCoreExample.sourcelink.json
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\obj\Debug\net8.0\EFCoreExample.dll
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\obj\Debug\net8.0\refint\EFCoreExample.dll
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\obj\Debug\net8.0\EFCoreExample.pdb
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\obj\Debug\net8.0\EFCoreExample.genruntimeconfig.cache
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\obj\Debug\net8.0\ref\EFCoreExample.dll
+C:\Users\arthu\source\repos\EstudosIniciaisDotNet\EFCoreExample\obj\Debug\net8.0\EFCoreExample.csproj.AssemblyReference.cache
